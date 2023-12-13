@@ -13,4 +13,5 @@
 3.运行程序后VBS的运行弹窗会显示5-10秒。
 
 ## 语言（Language）
-- en [English](Readme/en-us.md)
+- [English-US](Readme/en-us.md)
+- [简体中文](readme.md)
